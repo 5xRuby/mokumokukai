@@ -6,7 +6,7 @@
 - 使用技術：RoR with Graph API
 - 資料庫：PostgreSQL, Redis
 - Server: AWS, OpsWorks
-- CI: Jenkis
+- CI: Jenkins
 - HTML/CSS/JavaScript
 - Git
 
