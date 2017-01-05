@@ -6,7 +6,8 @@
 2. [AmazingTalker](jobs/amazing_talker.md) - 徵 Senior Rails Developer (年薪 100+ 萬)
 3. [Bananny 托育小幫手](jobs/bananny.md) - 徵 Rails Developer (月薪 4 萬 ~ 8 萬)
 4. [Colorgy](jobs/cology.md) - 誠徵 Ruby on Rails 後端工程師 (年薪 80 萬 ~ 110 萬，可談股份)
-5. [Racbit 雷比兔](jobs/racbit.md) - 徵 Senior Rails Developer (月薪 5 萬 ~ 8 萬)
+5. [LIVEhouse.in](jobs/livehouse-in.md) - 徵資深網站後端工程師 (年薪 70 萬 ~ 100+ 萬)
+6. [Racbit 雷比兔](jobs/racbit.md) - 徵 Senior Rails Developer (月薪 5 萬 ~ 8 萬)
 
 ## 人求事
 尚無資料
