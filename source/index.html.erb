@@ -1,14 +1,8 @@
 ---
-title: Welcome to Middleman
+title: Ruby Mokumokukai - Job Board
 ---
 
-<div class="welcome">
-  <div class="logo">
-    <%= image_tag "middleman-logo.svg" %>
-  </div>
-  <h1>Middleman is Running</h1>
-  <p class="doc">
-    <%= markdown_to_json %>
-    <%= link_to "Read Documentation Online", "https://middlemanapp.com", target: "_blank" %>
-  </p><!-- .doc -->
-</div><!-- .welcome -->
+<div class="job-board" data-jobs='<%= job_list.to_json %>'>
+  <div class="job-board__code">{info}</div>
+</div>
+

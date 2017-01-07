@@ -1,0 +1,18 @@
+// Layout
+
+.job-board {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+
+  &__code {
+    color: $code-color;
+  }
+
+  &__company-name, &__company-title, &__company-offer {
+    font-weight: normal;
+    color: $secondary-color;
+  }
+}

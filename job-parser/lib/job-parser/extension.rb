@@ -10,15 +10,16 @@ module JobParser
   class Extension < ::Middleman::Extension
     option :root, Dir.pwd, 'The job data root'
 
+    expose_to_template :job_list
+
     def initialize(app, options_hash={}, &block)
       super
 
       @root = options.root
-      @list = []
     end
 
     def after_configuration
-      @list = List.load(readme_file)
+
     end
 
     def readme_file
@@ -29,10 +30,9 @@ module JobParser
       "#{@root}/jobs/*.md"
     end
 
-    helpers do
-      def job_list_json
-        @list.to_json
-      end
+    def job_list
+      List.load(readme_file)
     end
+
   end
 end
