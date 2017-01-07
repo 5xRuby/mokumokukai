@@ -1,5 +1,14 @@
 // Layout
 
+#header {
+  padding: 2em;
+
+  font-family: sans-serif;
+
+  background-color: $ruby-color;
+  text-align: center;
+}
+
 .job-board {
   position: absolute;
   top: 50%;
@@ -8,10 +17,11 @@
   transform: translate(-50%, -50%);
 
   &__code {
+    font-size: 28px;
     color: $code-color;
   }
 
-  &__company-name, &__company-title, &__company-offer {
+  &__highlight {
     font-weight: normal;
     color: $secondary-color;
   }

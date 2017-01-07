@@ -2,9 +2,9 @@
 
 (function(_) {
 
-    var _template = "Company.new(<span class=\"job-board__company-name\">\"{company}\"</span>) do<br />" +
-                    "&nbsp;&nbsp;job <span class=\"job-board__company-title\">\"{title}\"</span> do<br />" +
-                    "&nbsp;&nbsp;&nbsp;&nbsp;offer <span class=\"job-board__company-offer\">\"{offer}\"</span><br />" +
+    var _template = "Company.new(\"{company}\") do<br />" +
+                    "&nbsp;&nbsp;job \"{title}\" do<br />" +
+                    "&nbsp;&nbsp;&nbsp;&nbsp;offer \"{offer}\"<br />" +
                     "&nbsp;&nbsp;end<br />" +
                     "end";
 
@@ -15,7 +15,7 @@
     }
 
     var Typer = function(el, sourceJobs, speed, wait) {
-        var speed = speed || 25;
+        var speed = speed || 50;
         var wait = wait || 2000;
         var $el = el;
         var jobs = sourceJobs || [];
@@ -42,8 +42,22 @@
             var word$ = Rx.Observable.from(rawCode)
             var timer$ = Rx.Observable.interval(speed)
 
+            var stringOpened = false;
+            var syntaxScan = function(acc, char) {
+                if(char == "\"") {
+                    if(stringOpened) {
+                        stringOpened = false;
+                        return acc + char + "</span>";
+                    } else {
+                        stringOpened = true;
+                        return acc + "<span class=\"job-board__highlight\">" + char;
+                    }
+                }
+                return acc + char;
+            }
+
             word$.zip(timer$, function(x, y) { return x; })
-                .scan(function(acc, char) { return acc + char;  })
+                .scan(syntaxScan)
                 .subscribe(update, updateError, updateComplete)
         }
 
