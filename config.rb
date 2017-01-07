@@ -18,6 +18,8 @@ page '/*.txt', layout: false
 
 # General configuration
 
+activate :job_parser
+
 # Reload the browser automatically whenever files change
 configure :development do
   activate :livereload
