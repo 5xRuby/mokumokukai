@@ -1,0 +1,13 @@
+// Base Style
+
+body {
+  font-family: $font-family;
+
+  letter-spacing: 0.025em;
+  color: $white;
+  background-color: $primary-color;
+
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
