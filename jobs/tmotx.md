@@ -45,7 +45,8 @@
 6. 熟悉後端 application 架構設計與優化
 7. 熟悉 Mac/Linux 系統與環境操作指令
 8. 有能力撰寫易維護與高效能的程式碼
-###加分條件：
+
+####加分條件：
 熟悉撰寫測試程式（Rspec / Cucumber）
 熟悉過第三方的 Web Service API（ex: Facebook / Twitter）
 熟悉前端framework(ex: react)
