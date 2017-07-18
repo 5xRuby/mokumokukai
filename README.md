@@ -7,6 +7,7 @@
 1. [Bananny 托育小幫手](jobs/bananny.md) - 徵 Rails Developer (月薪 4 萬 ~ 8 萬)
 1. [Colorgy](jobs/cology.md) - 誠徵 Ruby on Rails 後端工程師 (年薪 80 萬 ~ 110 萬，可談股份)
 1. [iCook 愛料理](jobs/icook.md) - 誠徵 Ruby on Rails 後端工程師 (月薪 3.5 萬 ~ 8 萬)
+1. [KumaWash](jobs/kumawash.md) - 誠徵 Rails Developer (月薪 4 萬 ~ 8 萬)
 1. [果子云數位科技](jobs/Larvata.md) - 誠徵 Rails 後端工程師 (年薪 4 萬 ~ 6 萬)
 1. [LIVEhouse.in](jobs/livehouse-in.md) - 徵資深網站後端工程師 (年薪 70 萬 ~ 100+ 萬)
 1. [Racbit 雷比兔](jobs/racbit.md) - 徵 Senior Rails Developer (月薪 5 萬 ~ 8 萬)
