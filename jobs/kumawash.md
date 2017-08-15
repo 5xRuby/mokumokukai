@@ -6,7 +6,7 @@ KumaWash 是洗衣品牌，更是一間徹頭徹尾的網路公司。
 
 我們重視多元，因此希望你/妳樂於表達意見，豐富整個團隊；我們重視合作，因此希望你是個 team player，理解 code review 的重要性；我們重視成長，因此希望你熱衷自主學習，於定期的內部分享會中有所貢獻且有所收穫。當然我們也很重視熱情啦，只不過那絕非加班的藉口。
 
-最近 DHH 說了一句我們都很同意的話：”We value great writers, so please do take your time with the application.”。因此若你/妳對於加入我們有興趣，希望你做好準備再來，因為你的履歷可能就會是你在敝司所寫的第一份文件。當然還要附上 Github，如果你沒有 Github 帳號可能得想一下要怎麼解釋。
+Ruby on Rails 的發明者 DHH 說了一句我們都很同意的話：”We value great writers, so please do take your time with the application.”。因此若你/妳對於加入我們有興趣，希望你做好準備再來，因為你的履歷可能就會是你在敝司所寫的第一份文件。當然還要附上 GitHub，如果你沒有 GitHub 帳號可能得想一下要怎麼解釋。
 
 最後，希望你/妳真心喜愛 Rails。（然後再喜歡 KumaWash）
 
