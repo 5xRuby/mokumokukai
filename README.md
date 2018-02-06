@@ -4,6 +4,7 @@
 ### 依英文字母順序排序
 1. [五倍紅寶石](jobs/5xruby.md) - 誠徵全職 Mobile App 工程師一至二名 (月薪 5 萬 ~ 8 萬)
 1. [AmazingTalker](jobs/amazing_talker.md) - 徵 Senior Rails Developer (年薪 100+ 萬)
+1. [Ayla Networks](jobs/ayla_networks.md) - 徵 Rails+Java雙技能 Senior Developer (年薪 100+ 萬)
 1. [Bananny 托育小幫手](jobs/bananny.md) - 徵 Rails Developer (月薪 4 萬 ~ 8 萬)
 1. [Colorgy](jobs/cology.md) - 誠徵 Ruby on Rails 後端工程師 (年薪 80 萬 ~ 110 萬，可談股份)
 1. [iCook 愛料理](jobs/icook.md) - 誠徵 Ruby on Rails 後端工程師 (月薪 3.5 萬 ~ 8 萬)
