@@ -1,4 +1,4 @@
-# Ayla Networks - 徵 Senior Rails+Java雙技能 Developer
+# Ayla Networks - 徵 Rails+Java雙技能 Senior Developer
 
 ## 工作內容
 
@@ -7,14 +7,13 @@
 ## 技能
 
 1. Rails + Java
-2. 5 年以上經驗
-3. 英文溝通能力
+1. 5 年以上經驗
+1. 英語溝通能力
 
 ## 公司介紹
 
-https://m.youtube.com/watch?v=Z_FzPSf2RRk
-
-所有職缺與福利: [104](https://goo.gl/A8baWx)
+* [平台介紹](https://m.youtube.com/watch?v=Z_FzPSf2RRk)
+* 所有職缺與福利: [104](https://goo.gl/A8baWx)
 
 ## 地點
 
@@ -22,7 +21,7 @@ https://m.youtube.com/watch?v=Z_FzPSf2RRk
 
 ## 待遇
 
-年薪 100 萬+
+年薪 100萬+
 
 ## 聯絡
 
