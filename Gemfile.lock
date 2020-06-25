@@ -1,5 +1,5 @@
 PATH
-  remote: ./job-parser
+  remote: job-parser
   specs:
     job-parser (0.0.1)
       middleman-core (>= 4.2.0)
@@ -93,7 +93,7 @@ GEM
       activesupport (>= 3.1)
     parallel (1.10.0)
     public_suffix (2.0.5)
-    rack (2.0.1)
+    rack (2.2.3)
     rack-livereload (0.3.16)
       rack
     rb-fsevent (0.9.8)
