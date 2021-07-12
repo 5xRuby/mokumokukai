@@ -1,5 +1,5 @@
 PATH
-  remote: ./job-parser
+  remote: job-parser
   specs:
     job-parser (0.0.1)
       middleman-core (>= 4.2.0)
@@ -13,8 +13,8 @@ GEM
       i18n (~> 0.7)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-    addressable (2.5.0)
-      public_suffix (~> 2.0, >= 2.0.2)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     backports (3.6.8)
     coffee-script (2.4.1)
       coffee-script-source
@@ -92,7 +92,7 @@ GEM
     padrino-support (0.13.3.3)
       activesupport (>= 3.1)
     parallel (1.10.0)
-    public_suffix (2.0.5)
+    public_suffix (4.0.6)
     rack (2.0.1)
     rack-livereload (0.3.16)
       rack
